@@ -8,7 +8,7 @@ package {
 }
 
 android_app {
-    name: "Backgrounds",
+    name: "euclidOSWallpapers",
 
     sdk_version: "current",
     product_specific: true,
